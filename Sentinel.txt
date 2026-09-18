@@ -1,7 +1,0 @@
-sudo /opt/sentinelone/bin/sentinelctl management token set eyJ1cmwiOiAiaHR0cHM6Ly9hcG5lMS0xMDAyLnNlbnRpbmVsb25lLm5ldCIsICJzaXRlX2tleSI6ICI3NDRiYjc3MzhkMWQ3OTNhIn0=
-
-sudo /opt/sentinelone/bin/sentinelctl control start
-
-sudo /opt/sentinelone/bin/sentinelctl management status
-
-https://apne1-1002.sentinelone.net/dashboard
